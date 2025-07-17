@@ -70,7 +70,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🙌 Acknowledgements
 
 - [OpenWeatherMap API](https://openweathermap.org/)
-- [FontAwesome](https://fontawesome.com/) (if used for icons)
+- [FontAwesome](https://fontawesome.com/)
 
 ---
 
