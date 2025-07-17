@@ -5,7 +5,7 @@ A simple and elegant weather application built with **HTML**, **CSS**, and **Jav
 
 ## 🔗 Live Demo
 
-> [Click here to view the live app](https://sagarnegi10.github.io/Weather-App)
+> [Click here to view the live app](https://sagarnegi10.github.io/weather-app/)
 
 ## 📌 Features
 
